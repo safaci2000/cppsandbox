@@ -1,0 +1,10 @@
+In theory this should a test case to allow 
+me to read user status's off twitter's public 
+API.  Or.. Identi.ca/status.net/etc.
+
+Dependencies:
+QT
+
+TODO: 
+convert this file to asciidoc
+
